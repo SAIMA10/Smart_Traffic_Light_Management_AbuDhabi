@@ -1,0 +1,3 @@
+Interval is the time of each simulation step (in seconds). 
+An interval of 0.5 means for each simulation step, the system will move 0.5 seconds forward. 
+For example, if a car is at location 0 with speed 10m/s, after one simulation step, it will move to location 10*0.5=5.
